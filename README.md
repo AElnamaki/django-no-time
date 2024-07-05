@@ -35,8 +35,13 @@ First,Create vevn and activate it then  clone the repository to your local machi
 ```sh
 git clone https://github.com/AElnamaki/django-no-time.git
 cd django-no-time
-pip install requirements,txt
+pip install -r requirements,txt
 ```
+### DYNAMIC
+```sh
+python AS.py --project-name MyProject --app-name App1 App2 --page-names "home,about" "dashboard,profile" -y
+```
+
 
 ### AUTO
 example
