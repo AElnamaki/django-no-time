@@ -48,6 +48,11 @@ example
 ```sh
 python AS.py --project-name MyProject --app-name App1 App2 --page-names "home,about" "dashboard,profile" -y
 ```
-
+### FILE S
+- For handling data structures and performing manipulations, our Python code is designed to be efficient and robust
+```sh
+python ID.py path-to-your-project
+pyhotn ID.py 
+```
 
 
