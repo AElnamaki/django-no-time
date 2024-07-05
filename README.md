@@ -52,7 +52,7 @@ python AS.py --project-name MyProject --app-name App1 App2 --page-names "home,ab
 - For handling data structures and performing manipulations, our Python code is designed to be efficient and robust
 ```sh
 python ID.py path-to-your-project
-pyhotn ID.py 
+python ID.py 
 ```
 
 
