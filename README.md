@@ -29,6 +29,11 @@ The Django Dynamic Structure Creation Framework is a powerful tool for DCIP23E07
 
 ## Installation
 # venv
+- create and activate the venv
+```sh
+python -m venv venv
+source venv/bin/activate
+```
 
 ### Clone the Repository
 First,Create vevn and activate it then  clone the repository to your local machine:
