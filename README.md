@@ -39,7 +39,7 @@ pip install -r requirements.txt
 ```
 ### DYNAMIC
 ```sh
-python AS.py --project-name MyProject --app-name App1 App2 --page-names "home,about" "dashboard,profile" -y
+python DS.py 
 ```
 
 
