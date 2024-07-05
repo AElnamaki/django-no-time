@@ -28,10 +28,21 @@ The Django Dynamic Structure Creation Framework is a powerful tool for DCIP23E07
 - Supports argument-driven customization
 
 ## Installation
+# venv
 
 ### Clone the Repository
-First, clone the repository to your local machine:
+First,Create vevn and activate it then  clone the repository to your local machine:
 ```sh
-git clone https://github.com/<your-username>/<your-repository>.git
-cd <your-repository>
+git clone https://github.com/AElnamaki/django-no-time.git
+cd django-no-time
+pip install requirements,txt
+```
+
+### AUTO
+example
+```sh
+python AS.py --project-name MyProject --app-name App1 App2 --page-names "home,about" "dashboard,profile" -y
+```
+
+
 
