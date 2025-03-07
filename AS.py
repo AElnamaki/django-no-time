@@ -233,4 +233,3 @@ def main():
 if __name__ == "__main__":
     main()
 
-# /home/elnamaki/Desktop/dci-project/agents/venv/bin/python /home/elnamaki/Desktop/dci-project/agents/AS_args.py --project-name MyProject --app-name App1 App2 --page-names "home,about" "dashboard,profile" -y
